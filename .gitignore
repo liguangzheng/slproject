@@ -1,0 +1,27 @@
+# Ignored files
+*.suo
+*.user
+*.sdf
+*.opensdf
+*.idb
+*.pdb
+*.obj
+*.md5
+*.pdf
+*.dll
+*.lib
+*.exe
+*.so
+obj/
+ipch/
+_bin/
+_bin-*/
+_lib/
+_doc/
+intermediate/
+Makefile
+.qmake*
+GenerateHTMLDoc.log
+*.autosave
+*.Release
+*.Debug
